@@ -1,4 +1,18 @@
 .start {
-    max-height: 200em;
-    background-image: url("/Users/skiroyjenkins/pictures/IMG_20161115_203223.jpg");
+    background-image: url("/Users/skiroyjenkins/pictures/profile1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.start h6 {
+    padding-top: 10em;
+    width: auto;
+}
+
+.start p {
+    margin-bottom: 40em;
+}
+
+.start h1 {
+    margin: 0;
 }
