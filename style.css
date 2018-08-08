@@ -17,7 +17,7 @@
     margin-top: 4%;
     margin-left: auto;
     margin-right: auto;
-    text-shadow: -1px -1px 0 #000,
+    text-shadow: 3px 5px 3px grey, -1px -1px 0 #000,
     1px -1px 0 #000,
     -1px 1px 0 #000,
     1px 1px 0 #000; 
@@ -26,7 +26,7 @@
 
 .begining h5 {
     margin-top: 5em;
-    text-shadow: -1px -1px 0 #000,
+    text-shadow: 3px 5px 3px grey,-1px -1px 0 #000,
     1px -1px 0 #000,
     -1px 1px 0 #000,
     1px 1px 0 #000; 
@@ -35,7 +35,7 @@
 
 .begining h6 {
     margin-bottom: 30em;
-    text-shadow: -1px -1px 0 #000,
+    text-shadow: 3px 5px 3px grey,-1px -1px 0 #000,
     1px -1px 0 #000,
     -1px 1px 0 #000,
     1px 1px 0 #000; 
