@@ -18,30 +18,31 @@
     margin-top: 4%;
     margin-left: auto;
     margin-right: auto;
-    text-shadow: 3px 5px 3px grey, -1px -1px 0 #000,
+    text-shadow: 3px 5px 3px grey,
+     /* -1px -1px 0 #000,
     1px -1px 0 #000,
     -1px 1px 0 #000,
-    1px 1px 0 #000; 
+    1px 1px 0 #000;  */
 
 }
 
 .begining h5 {
     font-family: 'Ubuntu', sans-serif;
     margin-top: 10vh;
-    text-shadow: -1px -1px 0 white,
+    /* text-shadow: -1px -1px 0 white,
     1px -1px 0 white,
     -1px 1px 0 white,
-    1px 1px 0 white; 
+    1px 1px 0 white;  */
 
 }
 
 .begining h6 {
     font-family: 'Ubuntu', sans-serif;
     margin-bottom: 25vh;
-    text-shadow: -1px -1px 0 #000,
+    /* text-shadow: -1px -1px 0 #000,
     1px -1px 0 #000,
     -1px 1px 0 #000,
-    1px 1px 0 #000; 
+    1px 1px 0 #000;  */
 
 }
 
@@ -66,6 +67,6 @@ a {
 }
 
 footer a{
-    padding: 2.5em;
+    padding: 1.5em;
 }   
 
