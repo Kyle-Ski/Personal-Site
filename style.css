@@ -10,7 +10,7 @@
 
 .projects {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     background: linear-gradient(#4B4950,whitesmoke) ;
 }
 .begining h1{
@@ -28,24 +28,24 @@
 .begining h5 {
     font-family: 'Ubuntu', sans-serif;
     margin-top: 5em;
-    text-shadow: 3px 5px 3px grey,-1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000; 
+    text-shadow: -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white; 
 
 }
 
 .begining h6 {
     font-family: 'Ubuntu', sans-serif;
     margin-bottom: 30em;
-    text-shadow: 3px 5px 3px grey,-1px -1px 0 #000,
+    text-shadow: -1px -1px 0 #000,
     1px -1px 0 #000,
     -1px 1px 0 #000,
     1px 1px 0 #000; 
 
 }
 
-.begining a {
+a {
     align-self: center;
     justify-content: flex-end;
 }
@@ -56,5 +56,5 @@
 }
 
 .card {
-    width: 15%;
+    width: 100%;
 }
