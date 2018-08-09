@@ -4,7 +4,7 @@
     background-image: url("/Users/skiroyjenkins/pictures/profile1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 75em;
+    height: 105vh;
     color: rgb(66, 66, 66);
 }
 
@@ -27,7 +27,7 @@
 
 .begining h5 {
     font-family: 'Ubuntu', sans-serif;
-    margin-top: 5em;
+    margin-top: 10vh;
     text-shadow: -1px -1px 0 white,
     1px -1px 0 white,
     -1px 1px 0 white,
@@ -37,7 +37,7 @@
 
 .begining h6 {
     font-family: 'Ubuntu', sans-serif;
-    margin-bottom: 30em;
+    margin-bottom: 25vh;
     text-shadow: -1px -1px 0 #000,
     1px -1px 0 #000,
     -1px 1px 0 #000,
@@ -53,8 +53,14 @@ a {
 .begining ul {
     margin-left: 10%;
     margin-right: 10%;
+    margin-top: 0;
 }
 
 .card {
     width: 100%;
+}
+
+.Twitter {
+    max-height: 120px;
+    max-width: 120px;
 }
