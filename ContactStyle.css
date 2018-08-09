@@ -4,24 +4,26 @@ body {
 main {
     background-image: url("/Users/skiroyjenkins/Pictures/CampingBW.jpg");
     display: flex;
+    flex-direction: column;
     font-family: 'Ubuntu', sans-serif;
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: #B3B2B3;
+}
+
+.get {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
-    text-shadow: 3px 5px 3px black,-1px -1px 0 black,
-    1px -1px 0 black,
-    -1px 1px 0 black,
-    1px 1px 0 black; 
-
+    text-shadow:
+-1px -1px 0 black,
+1px -1px 0 black,
+-1px 1px 0 black,
+1px 1px 0 black; 
 }
 
-.Twitter {
-    max-height: 120px;
-    max-width: 120px;
-}
 
 .fa-twitter-square:before{
     height: 120px;
@@ -29,8 +31,7 @@ h1 {
     font-size: 2em;
     padding: 0.2em;
     color: white;
-    text-shadow: 3px 5px 3px black;
-  
+    text-shadow: 6px 10px 3px black;
 }
 
 .fa-github:before {
@@ -39,7 +40,7 @@ h1 {
     font-size: 2em;
     padding: 0.2em;
     color: white;
-    text-shadow: 3px 5px 3px black; 
+    text-shadow: 6px 10px 3px black; 
 }
 
 .fa-linkedin:before {
@@ -48,7 +49,7 @@ h1 {
     font-size: 2em;
     padding: 0.2em;
     color: white;
-    text-shadow: 3px 5px 3px black;
+    text-shadow: 6px 10px 3px black;
 }
 
 .fa-instagram:before {
@@ -57,11 +58,35 @@ h1 {
     font-size: 2em;
     padding: 0.2em;
     color: white;
-    text-shadow: 3px 5px 3px black;
+    text-shadow: 6px 10px 3px black;
+}
+
+a.fa-instagram:before:hover {
+    color: #9e9d24;
+}
+
+a.tel {
+    color: white;
 }
 
 .tel:hover {
     color: #9e9d24;
+}
+
+.tel {
+    color: #B3B2B3;
+}
+
+a.email{
+    color: white;
+}
+
+.email:hover {
+    color: #9e9d24;
+}
+
+.email {
+    color: #B3B2B3;
 }
 
 li {
@@ -71,6 +96,12 @@ li {
 .page-footer {
     background-color: #9e9d24;
     padding-top: 1.5em;
+}
+
+.back {
+    padding-left: 30%;
+    padding-right: 20%;
+    padding-bottom: 5%;
 }
 
 footer a{
