@@ -60,5 +60,12 @@ a {
     width: 100%;
 }
 
+.page-footer {
+    background-color: #9e9d24;
+    padding-top: 1.5em;
+}
 
+footer a{
+    padding: 2.5em;
+}   
 

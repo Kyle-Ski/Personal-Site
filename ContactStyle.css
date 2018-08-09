@@ -1,10 +1,12 @@
+body {
+    height: 100vh;
+}
 main {
     background-image: url("/Users/skiroyjenkins/Pictures/CampingBW.jpg");
     display: flex;
     font-family: 'Ubuntu', sans-serif;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
     color: white;
 }
 
@@ -51,4 +53,17 @@ h1 {
 
 .tel:hover {
     color: #9e9d24;
+}
+
+li {
+    padding: 2em; 
+}
+
+.page-footer {
+    background-color: #9e9d24;
+    padding-top: 1.5em;
+}
+
+footer a{
+    padding: 2.5em;
 }
