@@ -1,0 +1,11 @@
+.Twitter {
+    max-height: 120px;
+    max-width: 120px;
+}
+
+.fa-linkedin:before {
+    height: 120px;
+    width: 120px;
+    font-size: 2em;
+    padding-left: 20px;
+}
