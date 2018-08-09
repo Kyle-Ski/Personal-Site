@@ -5,7 +5,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 75em;
-    color: whitesmoke;
+    color: rgb(66, 66, 66);
 }
 
 .projects {
@@ -14,6 +14,7 @@
     background: linear-gradient(#4B4950,whitesmoke) ;
 }
 .begining h1{
+    font-family: 'Ubuntu', sans-serif;
     margin-top: 4%;
     margin-left: auto;
     margin-right: auto;
@@ -25,6 +26,7 @@
 }
 
 .begining h5 {
+    font-family: 'Ubuntu', sans-serif;
     margin-top: 5em;
     text-shadow: 3px 5px 3px grey,-1px -1px 0 #000,
     1px -1px 0 #000,
@@ -34,6 +36,7 @@
 }
 
 .begining h6 {
+    font-family: 'Ubuntu', sans-serif;
     margin-bottom: 30em;
     text-shadow: 3px 5px 3px grey,-1px -1px 0 #000,
     1px -1px 0 #000,
