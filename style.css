@@ -9,9 +9,10 @@
 }
 
 .projects {
+    height: 120vh;
     display: flex;
     flex-direction: column;
-    background: linear-gradient(#4B4950,whitesmoke) ;
+    background: linear-gradient(#4B4950,#00425C) ;
 }
 .begining h1{
     font-family: 'Ubuntu', sans-serif;
@@ -70,3 +71,26 @@ footer a{
     padding: 1.5em;
 }   
 
+#about {
+    display: flex;
+    background-image: url("/Users/skiroyjenkins/Pictures/Forest.jpg");
+    height: 145vh;
+    font-family: 'Ubuntu', sans-serif;
+    color: #e6ee9c; 
+    text-shadow: -0.5px -0.5px 0 black,
+    0.5px -0.5px 0 black,
+    -0.5px 0.5px 0 black,
+    0.5px 0.5px 0 black; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    font-size: 1.3em;
+}
+
+.one {
+    padding-left: 5em;
+    padding-right: 5em;
+    max-width: 50%;
+}
