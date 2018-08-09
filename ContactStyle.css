@@ -1,11 +1,54 @@
+main {
+    background-image: url("/Users/skiroyjenkins/Pictures/CampingBW.jpg");
+    display: flex;
+    font-family: 'Ubuntu', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+h1 {
+    text-shadow: 3px 5px 3px black,-1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black; 
+
+}
+
 .Twitter {
     max-height: 120px;
     max-width: 120px;
+}
+
+.fa-twitter-square:before{
+    height: 120px;
+    width: 120px;
+    font-size: 2em;
+    padding: 0.2em;
+    color: white;
+    text-shadow: 3px 5px 3px black;
+  
+}
+
+.fa-github:before {
+    height: 120px;
+    width: 120px;
+    font-size: 2em;
+    padding: 0.2em;
+    color: white;
+    text-shadow: 3px 5px 3px black; 
 }
 
 .fa-linkedin:before {
     height: 120px;
     width: 120px;
     font-size: 2em;
-    padding-left: 20px;
+    padding: 0.2em;
+    color: white;
+    text-shadow: 3px 5px 3px black;
+}
+
+.tel:hover {
+    color: #9e9d24;
 }
