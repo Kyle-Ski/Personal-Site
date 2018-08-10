@@ -1,7 +1,7 @@
 # Personal Site
 
 This is my personal website! It describes my projects, intrests, hobbies, goals, has my resume and contact information. It also displays some of my coding prowess.
-A live link to the webpage is located at [Placeholder](Placeholder).
+A live link to the webpage is located at [this Surge link!](erratic-steel.surge.sh).
 
 ## Getting Started
 
