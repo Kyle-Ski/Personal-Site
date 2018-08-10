@@ -9,10 +9,13 @@
 }
 
 .projects {
-    height: 120vh;
-    display: flex;
-    flex-direction: column;
+    height: 95vh;
     background: linear-gradient(#4B4950,#00425C) ;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;    
 }
 .begining h1{
     font-family: 'Ubuntu', sans-serif;
@@ -38,7 +41,7 @@
 
 .begining h5 {
     font-family: 'Ubuntu', sans-serif;
-    margin-bottom: 25vh;
+    margin-bottom: 10vh;
     text-shadow: -1px -1px 0 black,
     1px -1px 0 black,
     -1px 1px 0 black,
@@ -58,8 +61,28 @@ a {
     max-width: 35%;
 }
 
+/* .projects ul {
+    flex-direction: row;
+    margin-top: 5%;
+    max-width: 90%
+} */
+
 .card {
-    width: 100%;
+    width: 30%;
+    margin-right: 5vh;
+    margin-left: 5vh;
+    margin-top: 15vh;   
+}
+
+.card-image img {
+    height: 35vh;
+}
+
+
+.projects h1{
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 2vh;
+    text-align: center;
 }
 
 .page-footer {
