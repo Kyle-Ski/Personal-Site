@@ -6,10 +6,11 @@
     background-size: cover;
     height: 90vh;
     color: white;
+
 }
 
 .projects {
-    height: 95vh;
+    height: 100vh;
     background: linear-gradient(#4B4950,#00425C) ;
 }
 
@@ -80,8 +81,11 @@ a {
 
 
 .projects h1{
+    color: #e6ee9c  ;
     font-family: 'Ubuntu', sans-serif;
-    margin-top: 2vh;
+    text-shadow: 3px 5px 3px black;
+    padding-top: 3vh;
+    margin-top: 0;
     text-align: center;
 }
 
