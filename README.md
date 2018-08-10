@@ -20,6 +20,11 @@ You will need a text editor such as [VS Code](https://code.visualstudio.com/), [
 * [Surge](http://surge.sh/) - Deployemnt Management
 * [GitHub](https://github.com/) - Used to log and update changes during build 😉
 
+## Wireframe
+* [1](https://i.imgur.com/zqsQiTU.jpg)
+* [2](https://i.imgur.com/gB1Y5o2.jpg)
+* [3](https://i.imgur.com/wQzvUbP.jpg)
+* [4](https://i.imgur.com/Qbs71lx.jpg)
 ## Authors
 
 * **Kyle Czajkowski** - *Initial work* - [Kyle-Ski](https://github.com/Kyle-Ski)
