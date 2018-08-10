@@ -1,7 +1,7 @@
 .begining {
     display: flex;
     flex-direction: column; 
-    background-image: url("/Users/skiroyjenkins/pictures/profile1.jpg");
+    background-image: url("https://i.imgur.com/zcT2fvC.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 90vh;
@@ -89,7 +89,7 @@ footer a{
 
 #about {
     display: flex;
-    background-image: url("/Users/skiroyjenkins/Pictures/Forest.jpg");
+    background-image: url("https://i.imgur.com/VySjxa2.jpg");
     height: 145vh;
     font-family: 'Ubuntu', sans-serif;
     color: #e6ee9c; 
