@@ -11,7 +11,8 @@
 
 .projects {
     height: 100vh;
-    background: linear-gradient(#4B4950,#00425C) ;
+    background-size: cover;
+    background-image: url("https://media.giphy.com/media/2l3BztkS3Kzks/giphy.gif")
 }
 
 .cards {
@@ -24,11 +25,6 @@
     margin-left: auto;
     margin-right: auto;
     text-shadow: 3px 5px 3px grey;
-     /* -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;  */
-
 }
 
 .begining h4 {
@@ -57,16 +53,9 @@ a {
 
 .begining ul {
     margin-left: 10%;
-    /* margin-right: 10%; */
     margin-top: 5%;
     max-width: 35%;
 }
-
-/* .projects ul {
-    flex-direction: row;
-    margin-top: 5%;
-    max-width: 90%
-} */
 
 .card {
     width: 30%;
