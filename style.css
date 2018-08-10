@@ -5,7 +5,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 90vh;
-    color: #00897b;
+    color: white;
 }
 
 .projects {
@@ -27,22 +27,22 @@
 
 }
 
-.begining h5 {
+.begining h4 {
     font-family: 'Ubuntu', sans-serif;
-    text-shadow: -0.5px -0.5px 0 white,
-    0.5px -0.5px 0 white,
-    -0.5px 0.5px 0 white,
-    0.5px 0.5px 0 white; 
+    text-shadow: -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black; 
 
 }
 
-.begining h6 {
+.begining h5 {
     font-family: 'Ubuntu', sans-serif;
     margin-bottom: 25vh;
-    text-shadow: -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000; 
+    text-shadow: -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black; 
 
 }
 
@@ -53,8 +53,9 @@ a {
 
 .begining ul {
     margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 0;
+    /* margin-right: 10%; */
+    margin-top: 5%;
+    max-width: 35%;
 }
 
 .card {
