@@ -27,18 +27,8 @@
     text-shadow: 3px 5px 3px grey;
 }
 
-.begining h4 {
+.begining h4, h5 {
     font-family: 'Ubuntu', sans-serif;
-    text-shadow: -1px -1px 0 black,
-    1px -1px 0 black,
-    -1px 1px 0 black,
-    1px 1px 0 black; 
-
-}
-
-.begining h5 {
-    font-family: 'Ubuntu', sans-serif;
-    margin-bottom: 10vh;
     text-shadow: -1px -1px 0 black,
     1px -1px 0 black,
     -1px 1px 0 black,
